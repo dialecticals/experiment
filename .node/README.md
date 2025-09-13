@@ -53,6 +53,13 @@ this prompts the questions
 
 Subsequently, `package.json` is created.
 
+
+Updating `npm`
+
+```shell
+npm install npm@...
+```
+
 <br>
 <br>
 
