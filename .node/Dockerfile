@@ -10,11 +10,6 @@ WORKDIR /app
 SHELL [ "/bin/bash", "-c" ]
 
 
-# Node Environment
-ARG NODE_ENV=development
-ENV NODE_ENV=$NODE_ENV
-
-
 # Setting-up: echo "$PWD" && echo "$LS"
 RUN apt update && apt -q -y upgrade && apt -y install sudo && \
     sudo apt -y install wget && sudo apt -y install curl && sudo apt -y install unzip && \
