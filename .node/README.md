@@ -63,7 +63,7 @@ npm install npm@...
 Installing packages
 
 ```shell
-
+npm install typescript
 ```
 
 <br>
