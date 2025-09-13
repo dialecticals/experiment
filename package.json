@@ -1,0 +1,25 @@
+{
+  "name": "graphing",
+  "version": "1.0.0",
+  "description": "The graphing of elements.",
+  "keywords": [
+    "network",
+    "cluster",
+    "graph"
+  ],
+  "homepage": "https://github.com/dialecticals/experiment#readme",
+  "bugs": {
+    "url": "https://github.com/dialecticals/experiment/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dialecticals/experiment.git"
+  },
+  "license": "ISC",
+  "author": "greyhypotheses",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
