@@ -60,6 +60,12 @@ Updating `npm`
 npm install npm@...
 ```
 
+Installing packages
+
+```shell
+
+```
+
 <br>
 <br>
 
