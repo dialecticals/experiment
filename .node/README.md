@@ -64,6 +64,8 @@ Installing packages
 
 ```shell
 npm install typescript
+npm install graphology graphology-components graphology-layout-forceatlas2 graphology-layout \
+    papaparse sigma @types/node
 ```
 
 <br>
