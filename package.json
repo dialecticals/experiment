@@ -23,7 +23,14 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "dependencies": {
+    "@types/node": "^24.3.3",
+    "graphology": "^0.26.0",
+    "graphology-components": "^1.5.4",
+    "graphology-layout": "^0.6.1",
+    "graphology-layout-forceatlas2": "^0.10.1",
     "npm": "^11.6.0",
+    "papaparse": "^5.5.3",
+    "sigma": "^3.0.2",
     "typescript": "^5.9.2"
   }
 }
