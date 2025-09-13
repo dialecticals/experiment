@@ -68,6 +68,12 @@ npm install graphology graphology-components graphology-layout-forceatlas2 graph
     papaparse sigma @types/node
 ```
 
+Initialising a TypeScript Project
+
+```shell
+npx tsc --init
+```
+
 <br>
 <br>
 
