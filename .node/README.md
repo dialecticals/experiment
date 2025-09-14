@@ -86,6 +86,12 @@ Of a single package
 npm list {package.name}
 ```
 
+Compiling
+
+```shell
+npx tsc src/*.ts --resolveJsonModule --esModuleInterop
+```
+
 <br>
 <br>
 
