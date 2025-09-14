@@ -47,7 +47,7 @@ this prompts the questions
 > keywords: 
 > author: 
 > license: (ISC)
-> type: (commonjs)
+> type: module
 > ```
 
 
