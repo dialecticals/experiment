@@ -1,11 +1,11 @@
 {
-  "name": "networks",
+  "name": "networking",
   "version": "1.0.0",
-  "description": "Networks",
+  "description": "Networking",
   "keywords": [
     "clusters",
     "networks",
-    "graphs"
+    "graphing"
   ],
   "homepage": "https://github.com/dialecticals/experiment#readme",
   "bugs": {
@@ -23,7 +23,7 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "dependencies": {
-    "@types/node": "^24.3.3",
+    "@types/node": "^24.4.0",
     "graphology": "^0.26.0",
     "graphology-components": "^1.5.4",
     "graphology-layout": "^0.6.1",
