@@ -74,6 +74,18 @@ Initialising a TypeScript Project
 npx tsc --init
 ```
 
+Listing installations:
+
+```shell
+npm ls --omit=dev
+```
+
+Of a single package
+
+```shell
+npm list {package.name}
+```
+
 <br>
 <br>
 
