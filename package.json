@@ -17,7 +17,7 @@
   },
   "license": "ISC",
   "author": "greyhypotheses",
-  "type": "commonjs",
+  "type": "module",
   "dependencies": {
     "@types/node": "^24.4.0",
     "graphology": "^0.26.0",
