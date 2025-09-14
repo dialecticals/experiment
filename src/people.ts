@@ -1,4 +1,4 @@
-import data from "./data/data.json";
+import data from "../data/data.json";
 
 import Graph from "graphology";
 import { circular } from "graphology-layout";
