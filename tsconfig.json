@@ -7,7 +7,7 @@
     "outDir": "./dist",
 
     // Environment Settings: See also https://aka.ms/tsconfig/module
-    "module": "esnext",
+    "module": "commonjs",
     "target": "es6",
     "types": [],
 
