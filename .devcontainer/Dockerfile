@@ -4,7 +4,7 @@ FROM node:24.4.1-bookworm-slim
 # If the steps of a `Dockerfile` use files that are different from the `context` file, COPY the
 # file of each step separately; and RUN the file immediately after COPY
 WORKDIR /app
-COPY package.json package-lock.json tsconfig.json /app/
+COPY package.json package-lock.json /app/
 
 # Environment
 SHELL [ "/bin/bash", "-c" ]
