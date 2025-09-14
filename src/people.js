@@ -3,7 +3,7 @@ var __importDefault = (this && this.__importDefault) || function (mod) {
     return (mod && mod.__esModule) ? mod : { "default": mod };
 };
 Object.defineProperty(exports, "__esModule", { value: true });
-var data_json_1 = __importDefault(require("./data/data.json"));
+var data_json_1 = __importDefault(require("../data/data.json"));
 var graphology_1 = __importDefault(require("graphology"));
 var graphology_layout_1 = require("graphology-layout");
 var graphology_layout_forceatlas2_1 = __importDefault(require("graphology-layout-forceatlas2"));
